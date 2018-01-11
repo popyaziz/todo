@@ -1,0 +1,8 @@
+Downloaded XAMPP
+Explored PHP and Apache
+Local connections are up and running
+
+NEXT STEP
+Create DB table (task, progress)
+Code the Create and delete todo functions
+Code progress status totals..i.e. Complete: 2 In-progress: 3
