@@ -1,1 +1,23 @@
-# todo
+To-Do Application 
+
+-Downloaded XAMPP
+-Explored PHP and Apache
+L-ocal connections are up and running
+
+NEXT STEP
+Create DB table (task, progress)-Done
+Code the Create and delete todo functions-Done
+Code progress status totals..i.e. Complete: 2 In-progress: 3-Not Done
+
+Name of the task: To-Do List Application
+Estimated No of hours: 
+Learning and Researching: 3 hours
+Connection to localhost: 2 hours (excluding issues)
+Coding: 3 hours
+Documentation: 5 hours
+
+Actual time spent: 13 hours total
+Notes: I had issues with XAMP connecting
+Issues:XAMP connection errors due to previously installed mySQL. Errors with making a connection to database using PHP which took a while due to no previous experience. A lot of research and examples were used to make the connection.
+
+
